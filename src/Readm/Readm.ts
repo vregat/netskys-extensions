@@ -38,7 +38,7 @@ export const ReadmInfo: SourceInfo = {
     icon: 'icon.png',
     author: 'Netsky',
     authorWebsite: 'https://github.com/TheNetsky',
-    description: 'Extension that pulls manga from readm.org',
+    description: 'Extension that pulls manga from readm.today',
     contentRating: ContentRating.MATURE,
     websiteBaseURL: RM_DOMAIN,
     sourceTags: [],
