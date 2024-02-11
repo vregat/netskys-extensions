@@ -1445,7 +1445,7 @@ exports.ReadmInfo = {
     icon: 'icon.png',
     author: 'Netsky',
     authorWebsite: 'https://github.com/TheNetsky',
-    description: 'Extension that pulls manga from readm.org',
+    description: 'Extension that pulls manga from readm.today',
     contentRating: types_1.ContentRating.MATURE,
     websiteBaseURL: RM_DOMAIN,
     sourceTags: [],
